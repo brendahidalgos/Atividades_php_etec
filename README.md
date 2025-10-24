@@ -20,3 +20,6 @@ Cada pasta corresponde a um exercício ou tema específico, conforme as aulas do
 ## 👩‍💻 Desenvolvido em
 
 Curso Técnico em Desenvolvimento de Sistemas – Início em 2025
+
+## ✍️ Autor
+@brendahidalgos - Aluna do curso de Análise e Desenvolvimento de Sistemas.
